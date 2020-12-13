@@ -47,19 +47,19 @@ However, if you don't want to run these external connections to the Twitter API 
 
 ## Repository Contents:
         
-- Daily_Tweets_Monitoring_Workflow.ipynb: complete workflow.
+- **Daily_Tweets_Monitoring_Workflow.ipynb:** complete workflow.
 
-- covid_tweets_10000.csv: Dataset of 10k December 4th tweets and data related. 
+- **covid_tweets_10000.csv:** Dataset of 10k December 10th tweets and data related. 
 
-- covid_tweets_10000_previous_week.csv: Dataset of 10k December 3th tweets and data related.
+- **covid_tweets_10000_previous_week.csv:** Dataset of 10k December 4th tweets and data related.
    
-- covid_tweets_10000_sentiments.csv: Dataset covid_tweets_10000.csv with sentiments coefficients computed. 
+- **covid_tweets_10000_sentiments.csv:** Dataset covid_tweets_10000.csv with sentiments coefficients computed. 
 
-- covid_tweets_10000_sentiments_previous_week.csv: Dataset covid_tweets_10000_previous_day.csv with sentiments coefficients computed.
+- **covid_tweets_10000_sentiments_previous_week.csv:** Dataset covid_tweets_10000_previous_day.csv with sentiments coefficients computed.
 
-- requirements.txt: Set of Python modules needed to run this project.
+- **requirements.txt:** Set of Python modules needed to run this project.
 
-- README.md
+- **README.md**
 
 
 ## User Instructions: 
