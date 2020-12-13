@@ -55,7 +55,7 @@ However, if you don't want to run these external connections to the Twitter API 
    
 - **covid_tweets_10000_sentiments.csv:** Dataset covid_tweets_10000.csv with sentiments coefficients computed. 
 
-- **covid_tweets_10000_sentiments_previous_week.csv:** Dataset covid_tweets_10000_previous_day.csv with sentiments coefficients computed.
+- **covid_tweets_10000_sentiments_previous_week.csv:** Dataset covid_tweets_10000_previous_week.csv with sentiments coefficients computed.
 
 - **requirements.txt:** Set of Python modules needed to run this project.
 
