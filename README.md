@@ -93,4 +93,4 @@ However, if you don't want to run these external connections to the Twitter API 
 
 ## Acknowlegdments:
 
-I want to thank Gabriel Preda for gave me the instructions on using the Twitter API. Also I want to thank Ryan J. Gallagher that develops the shifterator module, the guys behind the plotly package and Ben Mabey that is the master behind the development of the PYLDAvis package.
+I want to thank Gabriel Preda for gave me the instructions on using the Twitter API. Also I want to thank Ryan J. Gallagher that develops the shifterator module, the guys behind the plotly package and Ben Mabey that is the master behind the development of the PYLDAvis package. Also I want to thank Meg Risdal for teach me the shifterator tool and Varun Barath for teach me the world map animation function on the plotly module.
